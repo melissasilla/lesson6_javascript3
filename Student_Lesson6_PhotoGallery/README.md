@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 7th, 2017
 
 ### Student Name:  
-(First and Last Name)
+Melissa Silla
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In lesson 6,we learned how to change elements of a HTML document using Javascript 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://melissasilla.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Document Object Model (DOM)
+2. Browser Object Model(BOM)
+3. Traversing Nodes
